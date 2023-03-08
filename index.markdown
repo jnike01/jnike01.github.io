@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello. This is my new front page! Please feel free to click around.
